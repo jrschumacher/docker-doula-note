@@ -32,6 +32,7 @@ RUN \
     php70-php-pear \
     php70-php-process \
     php70-php-pspell \
+    php70-php-mongodb \
 
     `# Also install the following PECL packages:` \
     php70-php-pecl-imagick \
